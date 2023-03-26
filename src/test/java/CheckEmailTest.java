@@ -29,7 +29,6 @@ public class CheckEmailTest {
         Assert.assertFalse(checkEmail.checkEmail("vikaban.@gmail.com"));
     }
 
-
     @Test
     public void testEmail4() {
         System.out.println("testEmail4");
